@@ -1,7 +1,7 @@
 # Pilha.c
 Projeto pilha
 
-![Screenshot](pilha.png)
+![Screenshot](pila.png)
 
 *Feito na aula de estrutura de dados da Fatec Americana
 
