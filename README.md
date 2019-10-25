@@ -7,4 +7,7 @@ Projeto pilha
 
 25/10/2019:<br>
  - Criação do Doc.c
- - Criação da Função PUSH
+ - Criação da Função PUSH (Insert)
+ - Criação da Função TOP  (View)
+ - Criação da função POP  (Delete)
+ - *extra* View All
