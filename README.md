@@ -15,7 +15,7 @@ Projeto pilha
 Bugs:
  * se cadastrar um nome com espaços (nomes compostos) o sistema vai cadastrar o numero de vezes que o nome se divide, por exemplo:
   
-  Código: 123
-  Nome: Leonardo Fernandes Alonso
+  - Código: 123
+  - Nome: Leonardo Fernandes Alonso
   
   resultado: | 123 - Leonardo |  codigo aleatório - Fernandes | codigo aleatório - Alonso |
