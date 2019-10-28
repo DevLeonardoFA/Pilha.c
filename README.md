@@ -21,7 +21,7 @@ Bugs:
   resultado:
   <table>
    <tr>
-    <td>codigo</td>
+    <td>código</td>
     <td>nome</td>
    </tr>
    <tr>
