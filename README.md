@@ -18,4 +18,7 @@ Bugs:
   - Código: 123
   - Nome: Leonardo Fernandes Alonso
   
-  resultado: | 123 - Leonardo |  codigo aleatório - Fernandes | codigo aleatório - Alonso |
+  resultado: 
+  [] - 123 - Leonardo
+  [] - codigo aleatório - Fernandes
+  [] - codigo aleatório - Alonso
