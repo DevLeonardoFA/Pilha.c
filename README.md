@@ -18,7 +18,22 @@ Bugs:
   - Código: 123
   - Nome: Leonardo Fernandes Alonso
   
-  resultado: 
-  [] - 123 - Leonardo
-  [] - codigo aleatório - Fernandes
-  [] - codigo aleatório - Alonso
+  resultado:
+  <table>
+   <tr>
+    <td>codigo</td>
+    <td>nome</td>
+   </tr>
+   <tr>
+    <td>123</td>
+    <td>Leonardo</td>
+   </tr>
+   <tr>
+    <td>random</td>
+    <td>Fernandes</td>
+   </tr>
+ <tr>
+    <td>random</td>
+    <td>Alonso</td>
+   </tr>
+  </table>
